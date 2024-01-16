@@ -30,19 +30,13 @@
 **Java teacher @ STEP IT Academy (_September 2019 - March 2020)**
 
 ## Projects
-### PI Trainer
-[Pi Trainer](https://play.google.com/store/apps/details?id=com.kvlg.pitrainer)
-
+### [Pi Trainer](https://play.google.com/store/apps/details?id=com.kvlg.pitrainer)
 Developed a project to practice memorising pi numbers. 
 
-### Emojifier
-[Emojifier](https://play.google.com/store/apps/details?id=com.kvlg.emojify)
-
+### [Emojifier](https://play.google.com/store/apps/details?id=com.kvlg.emojify)
 Simple app for emojifying your text
 
-### Sberify
-[Sberify](https://github.com/kkgosu/Sberify)
-
+### [Sberify](https://github.com/kkgosu/Sberify)
 App for getting the latest releases on spotify, browsing albums and displaying lyrics from genius.com
 
 ## Talks
