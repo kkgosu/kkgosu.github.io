@@ -22,7 +22,7 @@
 - Conduct interviews
 - Mentor for new employees
 
-![Particles and shimmer](/assets/screen-20240116-193258~2.mp4)
+<img src="https://github.com/kkgosu/kkgosu.github.io/assets/26660369/60277b0e-ec84-44f1-ac5f-3efd7c64f0b8" width="440" height="360">
 
 **Java teacher @ STEP IT Academy (_September 2019 - March 2020)**
 
