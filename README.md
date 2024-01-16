@@ -21,11 +21,6 @@
 - Experience with Backend-Driven UI
 - Conduct interviews
 - Mentor for new employees
-- Jetpack Compose expert. Headliner at 4 meetups with topics:
-  - Introduction in Compose
-  - Recomposition and performance in Compose
-  - Animations in Compose
-  - Custom Layouts in Compose (Layout, SubcomposeLayout, LookaheadScope)
 
 **Java teacher @ STEP IT Academy (_September 2019 - March 2020)**
 
