@@ -12,8 +12,8 @@
 - Developed transfer limit functionality
 - Jetpack Compose design system from scratch:
   - Flexible API for working with text and images
-  - Library for shimmering (video)
-  - Library for spoilers (video)
+  - Library for shimmering (video below)
+  - Library for spoilers (video below)
   - Library for alerts
   - Collapsing toolbars
   - Custom snackbar and it's behaviour
@@ -21,6 +21,8 @@
 - Experience with Backend-Driven UI
 - Conduct interviews
 - Mentor for new employees
+
+![Particles and shimmer](/assets/screen-20240116-193258~2.mp4)
 
 **Java teacher @ STEP IT Academy (_September 2019 - March 2020)**
 
