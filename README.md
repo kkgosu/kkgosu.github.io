@@ -6,7 +6,10 @@
 - Master's Degree in Engineering (Mechatronics and Robotics)
 
 ## Work Experience
-**Android Developer, Design System @ Sberbank (_March 2020 - Present_)**
+**Android Developer, Stories @ VK (_March 2024 - Present_)**
+- Redesign stories
+
+**Android Developer, Design System @ Sberbank (_March 2020 - March 2024)**
 - Developed self- and P2P-transfers
 - Developed crowdfunding in chats
 - Developed transfer limit functionality
