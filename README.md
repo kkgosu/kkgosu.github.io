@@ -7,7 +7,9 @@
 
 ## Work Experience
 **Android Developer, Stories @ VK (_March 2024 - Present_)**
-- Redesign stories
+- Stories redesign
+- New repost feature
+- Led the migration from custom views to design system components in stories/profile/files etc.
 
 **Android Developer, Design System @ Sberbank (March 2020 - March 2024)**
 - Developed self- and P2P-transfers
@@ -28,6 +30,10 @@
 <img src="https://github.com/kkgosu/kkgosu.github.io/assets/26660369/60277b0e-ec84-44f1-ac5f-3efd7c64f0b8" width="440" height="360">
 
 **Java teacher @ STEP IT Academy (September 2019 - March 2020)**
+
+## Contests
+### TON Keeper Android Contest
+2nd place - https://t.me/tonkeeper_news/129
 
 ## Projects
 ### [Pi Trainer](https://play.google.com/store/apps/details?id=com.kvlg.pitrainer)
