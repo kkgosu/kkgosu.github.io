@@ -7,9 +7,12 @@
 
 ## Work Experience
 **Android Developer, Stories @ VK (_March 2024 - Present_)**
-- Stories redesign
-- New repost feature
-- Led the migration from custom views to design system components in stories/profile/files etc.
+Working on the Stories feature for one of the largest social platforms in Russia.
+- Led a complete redesign of the Stories viewer, Stories settings, and reposting functionality, improving user experience and interface consistency.
+- Gained extensive experience with video processing, including playback optimization and seamless integration into the Stories workflow.
+- Developed custom views to handle unique design requirements and enhance user interactions.
+- Implemented complex animations to elevate the visual appeal of the Stories experience.
+- Collaborated closely with cross-functional teams to ensure high performance and stability of Stories functionality.
 
 **Android Developer, Design System @ Sberbank (March 2020 - March 2024)**
 - Developed self- and P2P-transfers
